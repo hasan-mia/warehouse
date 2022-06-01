@@ -1,0 +1,20 @@
+[
+	{
+		"id" : 1,
+		"img": "https://i.imgur.com/7RiNiVr.png",
+		"title" : "Get Offer",
+		"description": "Ex laborum, excepturi doloribus similique eos cupiditate, veritatis ullam nisi debitis ut id amet eveniet nam delectus nihil facere. Aut error, odio inventore, veritatis ratione unde odit labore, repellendus est dolor consectetur accusamus vero illo repellat cumque corporis fuga mollitia dignissimos perspiciatis asperiores non dolorem tempore nam."
+	},
+	{
+		"id" : 2,
+		"img": "https://i.imgur.com/rXrO2Ht.png",
+		"title" : "50% Off",
+		"description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, repellendus autem cupiditate ut quia beatae esse perspiciatis sunt hic explicabo quos obcaecati necessitatibus, ducimus quas eveniet ipsa magni quisquam porro"
+	},
+	{
+		"id" : 3,
+		"img": "https://i.imgur.com/nnRFN6n.png",
+		"title" : "Buy one Get One",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	}
+]

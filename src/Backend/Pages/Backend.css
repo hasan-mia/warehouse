@@ -1,0 +1,4 @@
+@media print { 
+ /* Your print styles */
+ 	.footer { display: none !important; } 
+}

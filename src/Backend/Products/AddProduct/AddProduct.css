@@ -1,0 +1,51 @@
+.add-product{
+	min-height: 50vh;
+}
+.title {
+    /* background: #08145c; */
+    margin-top: 1rem;
+    padding: 0 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.title::before {
+    content: "";
+    position: absolute;
+    width: 36%;
+    height: 4px;
+    background: #aaaec5;
+    left: 4rem;
+    top: 14rem;
+}
+.title::after {
+    content: "";
+    position: absolute;
+    width: 36%;
+    height: 4px;
+    background: #aaaec5;
+    right: 4rem;
+    top: 14rem;
+}
+.title h2{
+	padding: 5px 0;
+}
+
+.add-product .form-control {
+    color: #000000;
+    background-color: #7b97fb91;
+}
+.add-product .form-control::-moz-placeholder {
+  color: #000000;
+}
+.add-product .form-control::-webkit-input-placeholder {
+  color: #000000;
+}
+@media(max-width:767px){
+	.add-product{
+		min-height: 65vh;
+	}
+	.title::before,
+	.title::after {
+		top: 15rem
+	}
+}

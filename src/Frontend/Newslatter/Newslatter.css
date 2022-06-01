@@ -1,0 +1,21 @@
+:focus-visible {
+    outline: -webkit-focus-ring-color auto 0;
+}
+.subscribe-input{
+	padding: 1rem!important;
+	border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+input::placeholder{
+	color: rgb(6, 25, 109);
+}
+.subscribe-btn {
+    position: relative;
+    right: 5px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 57px;
+    top: 2px;
+}

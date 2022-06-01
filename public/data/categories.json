@@ -1,0 +1,77 @@
+[
+	{
+		"id" : 1,
+		"img": "https://i.imgur.com/Nd2d0wU.png",
+		"title" : "Shirt",
+		"description": "Ex laborum, excepturi doloribus similique eos cupiditate, veritatis ullam nisi debitis ut id amet eveniet nam delectus nihil facere. Aut error, odio inventore, veritatis ratione unde odit labore, repellendus est dolor consectetur accusamus vero illo repellat cumque corporis fuga mollitia dignissimos perspiciatis asperiores non dolorem tempore nam."
+	},
+	{
+		"id" : 2,
+		"img": "https://i.imgur.com/n7IpFKs.png",
+		"title" : "T-Shirt",
+		"description" : "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae, repellendus autem cupiditate ut quia beatae esse perspiciatis sunt hic explicabo quos obcaecati necessitatibus, ducimus quas eveniet ipsa magni quisquam porro"
+	},
+	{
+		"id" : 3,
+		"img": "https://i.imgur.com/mCnIlO5.png",
+		"title" : "Saree",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	},
+	{
+		"id" : 4,
+		"img": "https://i.imgur.com/slX16cZ.png",
+		"title" : "Punjabi",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	}
+	,
+	{
+		"id" : 5,
+		"img": "https://i.imgur.com/y54rb2L.png",
+		"title" : "Kurti",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	},
+	{
+		"id" : 6,
+		"img": "https://i.imgur.com/KZqnHP5.png",
+		"title" : "Salwar Kameez",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	},
+	{
+		"id" : 7,
+		"img": "https://i.imgur.com/KZqnHP5.png",
+		"title" : "NightWeare",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	},
+	{
+		"id" : 8,
+		"img": "https://i.imgur.com/nUlUFx7.png",
+		"title" : "Wedding",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	},
+	{
+		"id" : 9,
+		"img": "https://i.imgur.com/B7Kuq16.png",
+		"title" : "Pant",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	},
+	{
+		"id" : 10,
+		"img": "https://i.imgur.com/WnRlFNX.png",
+		"title" : "Shoes",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	}
+	,
+	{
+		"id" : 11,
+		"img": "https://i.imgur.com/S5mwn5x.png",
+		"title" : "Mens Special",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	}
+	,
+	{
+		"id" : 12,
+		"img": "https://i.imgur.com/bk4PNUL.jpg",
+		"title" : "Womens Special",
+		"description" : "Repudiandae dolorum quidem illo rem aliquam odio, nihil tempora deserunt perspiciatis in at optio et aut alias! Quidem nisi id porro itaque commodi eum nulla? Illum sunt impedit ea accusamus."
+	}
+]

@@ -1,0 +1,37 @@
+.blog-card {
+    background: #c8e5ed;
+    box-shadow: 2px 3px 5px #0fdefa;
+    margin-bottom: 1rem;
+    padding: 5px;
+}
+.blog-card img {
+    padding: 2px;
+    height: 160px;
+    width: 100%;
+}
+.blog-card p {
+    color: #000;
+}
+.cat-title {
+    border: 1px solid gray;
+    background: #1e2244;
+    text-transform: uppercase;
+}
+.cat-title h4 {
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 0;
+    font-size: 20px;
+}
+article {
+    background: #0f173e;
+    padding: 0 5px;
+    text-align: justify;
+}
+.latest-blog li{
+    padding: 5px;
+    background: #c8e5ed;
+    color: #000;
+    margin: 5px 0;
+}
